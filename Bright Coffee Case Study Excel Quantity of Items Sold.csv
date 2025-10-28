@@ -1,0 +1,34 @@
+Row Labels;Count of ITEMS_SOLD;Sum of REVENUE
+Astoria;27;105854,22
+Bakery;3;12064
+Branded;3;2408
+Coffee;3;40999,05
+Coffee beans;3;4658,65
+Drinking Chocolate;3;11919
+Flavours;3;812,8
+Loose Tea;3;1421,65
+Packaged Chocolate;3;457,67
+Tea;3;31113,4
+Hell's Kitchen;36;107957,61
+Bakery;4;12443,5
+Branded;4;938
+Coffee;4;41441,3
+Coffee beans;4;8993,25
+Drinking Chocolate;4;10688
+Flavours;4;1353,6
+Loose Tea;4;2114,9
+Packaged Chocolate;4;781,66
+Tea;4;29203,4
+Lower Manhattan;30;104670,36
+Bakery;4;12764,29
+Branded;3;2956
+Coffee;4;40643,1
+Coffee beans;3;5029,7
+Drinking Chocolate;3;10221,25
+Flavours;3;1747,2
+Loose Tea;3;1629,25
+Packaged Chocolate;3;733,92
+Tea;4;28945,65
+(blank);;
+(blank);;
+Grand Total;93;318482,19
